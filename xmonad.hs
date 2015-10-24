@@ -1,0 +1,1 @@
+/home/trey/.xmonad/xmonad.hs
